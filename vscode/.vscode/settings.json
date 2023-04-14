@@ -1,0 +1,7 @@
+{
+    "[markdown]": {
+    "editor.insertSpaces": false,
+    "editor.wrappingColumn": 0,
+    "pandoc.htmlOptString": "-s -f gfm -t html5 --css=css/style.css"
+    }
+}
