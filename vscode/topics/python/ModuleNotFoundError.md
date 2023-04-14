@@ -25,4 +25,4 @@ To add workspace path to `PYTHONPATH`
     **for windows use `terminal.integraded.env.windows`, for mac use `terminal.integrated.env.osx`**
 5. save the file
 6. reload the workscpace using command `Developer: Reload Window`
-7. run the `code` again , module should be successfully imported and `ModuleNotDoundError` must not be visible anymore.
+7. run the `code` again , module should be successfully imported and `ModuleNotFoundError` must not be visible anymore.
