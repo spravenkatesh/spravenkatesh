@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @spravenkatesh
-- 👀 I’m interested in 5G, Python, Golang, Microservices & Cloud Technologies
-- 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on Python, Kubernetes
+- 👋 Hi, I’m S Prasanna Venkatesh
+- 👀 I’m interested in AI, 6G, Python, Golang, Microservices & Cloud Technologies
+- 🌱 I’m currently working on Agentic AI based system and in the process learning it 
+- 💞️ I’m looking to collaborate on AI,Python,Kubernetes,DevSecOps,AIOps,MLOps
 
 
 <!---
